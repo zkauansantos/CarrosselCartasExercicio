@@ -42,3 +42,4 @@ Projeto não está responsivo, pretendo fazer um carrossel de cartas posteriorme
 ## LINK HOSPEDADO NO GITHUB PAGES
 
 ---
+https://zkauansantos.github.io/Exercicio-JS/
